@@ -4,9 +4,9 @@ public class System_run extends Storage{
 
 		public static void main(String[] args) {
 		
-//			Storage str = new Storage(); //создание экземпляра
-//			Storage.LoadConfiguration(); //загрузка
-//			Storage.run(); //передача управления;	
+//			Storage str = new Storage(); //СЃРѕР·РґР°РЅРёРµ СЌРєР·РµРјРїР»СЏСЂР°
+//			Storage.LoadConfiguration(); //Р·Р°РіСЂСѓР·РєР°
+//			Storage.run(); //РїРµСЂРµРґР°С‡Р° СѓРїСЂР°РІР»РµРЅРёСЏ;	
 
 	}
 
