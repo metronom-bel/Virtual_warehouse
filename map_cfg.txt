@@ -1,4 +1,4 @@
-﻿XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXX                                                        XXX
 XXX                                    b                   XXX
 XXX                                                        XXX
@@ -8,10 +8,3 @@ XXX                                                        XXX
 XXX       b                                                XXX
 XXX                                                        XXX
 XXXXXXXXXXXXXXXXXXXeeeXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-# Легенда:
-# X - стена
-# b - ящик
-# e - выход
-
-
